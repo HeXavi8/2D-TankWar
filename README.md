@@ -31,3 +31,5 @@ D-右<br/>
 Space-发射炮弹<br/>
 ESC-退出<br/>
 Enter-暂停<br/>
+
+![avatar](https://github.com/HeXavi8/2D_TankWar/blob/main/2D_TankWar.png)
