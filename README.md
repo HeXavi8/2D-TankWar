@@ -11,6 +11,7 @@ easyX库https://easyx.cn/<br/>
 因为部分插图设置了绝对路径，因此请将项目安装到D盘中。
 
 ### 模块说明：<br/>
+代码写在了[c++项目（2019.8）](https://github.com/HeXavi8/2D_TankWar/tree/main/c%2B%2Bproject/c%2B%2B%E9%A1%B9%E7%9B%AE%EF%BC%882019.8%EF%BC%89)文件夹中<br/>
 rect类描述坦克及炮弹的信息<br/>
 point类描述物体的位置信息<br/>
 graphic描述图片的信息<br/>
