@@ -29,7 +29,6 @@ set类描述游戏信息<br/>
 check类描述检查坦克与炮弹碰撞<br/>
 
 The code is written in [c++项目（2019.8）](https://github.com/HeXavi8/2D_TankWar/tree/main/c%2B%2Bproject/c%2B%2B%E9%A1%B9%E7%9B%AE%EF%BC%882019.8%EF%BC%89)<br/>
-<br/>
 class rect: describe the information of tank and shell<br/>
 class point: describe the information of position<br/>
 class graphic: describe the information of pictures<br/>
