@@ -38,7 +38,6 @@ class bullet: describes the information of bullet <br/>
 class check: check collisions between tank and shell  <br/>
 <br/> <br/>
 
-
 ## 开发感想 Thoughts<br/>
 这是19年刚学C++（也是第一个学习的编程语言）时候花了两周做的第一个项目，更深入地理解了c++类的相关知识，并学习了easyX库的运用，因为时间有限，无法对游戏做更多的细节处理，比如增加关卡数量、提高玩家体验等。<br/>
 
