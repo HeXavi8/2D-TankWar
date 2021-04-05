@@ -7,7 +7,6 @@
 ## 开发技术 Development technology<br/>
 c++类及对象知识的运用，easyX库的使用。<br/>
 easyX库https://easyx.cn/<br/>
-
 C++ class and the use of object-oriented knowledge, the use of easyX library. <br/>
 EasyX library https://easyx.cn/<br/>
 
