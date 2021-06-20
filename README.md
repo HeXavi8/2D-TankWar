@@ -1,7 +1,7 @@
 # 2D_TankWar
 2D_TankWar is a 2D C++ game using EasyX library to develop.<br/>
 Chinese version of introduction, please refer to [中文介绍](中文介绍/README.md).
-## Content of Table
+## Table of Contents
 - [Development technology](#development-technology)
 - [Installation guide](#installation-guide)
 - [Module declaration](#module-declaration)
