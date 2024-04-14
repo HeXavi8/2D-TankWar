@@ -1,7 +1,7 @@
 ### [English](https://github.com/HeXavi8/2D_TankWar) | 中文
 
-# 2D_TankWar
-2D_TankWar是一款基于C++和EasyX库的2D坦克大战小游戏。
+# 2D-TankWar
+2D-TankWar是一款基于C++和EasyX库的2D坦克大战小游戏。
 
 
 ## 项目目录
